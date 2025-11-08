@@ -9,3 +9,10 @@ affecting its speed and stability. A high learning rate can cause instability an
 overshooting the optimal solution, leading to poor performance, while a low learning 
 rate results in slow convergence, potentially getting stuck in a local minimum. The 
 right learning rate is crucial for efficient and effective training.
+# What is the impact of adding more neurons?
+Adding more neurons increases the model’s ability to learn complex data,but beyond a 
+certain point it can cause overfitting and longer training without better results.
+# Which activation function would you try next?
+Definitely, I try Leaky ReLU or ELU — they improve learning stability and prevent dead 
+neurons, often giving smoother and faster convergence.
+
