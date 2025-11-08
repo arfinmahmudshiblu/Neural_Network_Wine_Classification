@@ -16,3 +16,9 @@ certain point it can cause overfitting and longer training without better result
 Definitely, I try Leaky ReLU or ELU — they improve learning stability and prevent dead 
 neurons, often giving smoother and faster convergence.
 
+Experiment with Model C is provided highest accuracy for individual learning rate than Experiment with Model A, B.
+Accuracy for individual learning rate- 
+Learning rate: 0.1, Test Accuracy: 0.9444
+Learning rate: 0.01, Test Accuracy: 0.9444
+Learning rate: 0.001, Test Accuracy: 0.9167
+
